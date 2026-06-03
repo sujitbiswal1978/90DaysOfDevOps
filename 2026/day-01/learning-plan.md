@@ -72,3 +72,5 @@ I know consistency is not easy, but I plan to stay consistent by learning a litt
  - Weekdays:- 2.5 - 3.00 hours per day(daily)
 
  - Weekends:- 4.5 - 5.5  hours per day(Only holidays/weekends)
+
+ **Thank You**
