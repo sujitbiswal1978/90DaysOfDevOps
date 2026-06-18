@@ -1,5 +1,7 @@
 # Day 10 – File Permissions & File Operations Challenge
 
+## 90-day Devops Learning plan
+
 ## Objective
 
 The goal of this challenge was to understand Linux file operations and file permissions. I practiced creating files, reading file contents, modifying permissions, executing scripts, and troubleshooting permission-related issues.
